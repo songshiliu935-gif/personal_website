@@ -99,11 +99,11 @@ revealEls.forEach(el => revealObserver.observe(el));
 
 /* ── Typing effect ── */
 const phrases = [
-  'Mature Econometrician',
-  'Causal Inference Specialist',
-  'Time-Series Analyst',
-  'Policy Evaluation Expert',
-  'Applied Microeconometrician',
+  'Master of Applied Econometrics Student',
+  'Time Series Analyst',
+  'Causal Inference Enthusiast',
+  'Macroeconomics Researcher',
+  'Advanced Machine Learning Explorer',
 ];
 const typedEl = document.getElementById('typed-text');
 let phraseIndex = 0, charIndex = 0, deleting = false;
