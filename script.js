@@ -99,7 +99,9 @@ revealEls.forEach(el => revealObserver.observe(el));
 
 /* ── Typing effect ── */
 const phrases = [
-  'Master of Applied Econometrics Student',
+  'Applied Econometrician',
+  'Mathematician',
+  'Data Scientist',
   'Time Series Analyst',
   'Causal Inference Enthusiast',
   'Macroeconomics Researcher',
